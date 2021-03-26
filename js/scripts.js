@@ -1,4 +1,4 @@
-let userName = prompt("Hello Stranger!  What is your name?!")
+//let userName = prompt("Please enter a UserName:")
 $(document).ready(function() {
   $("#response").submit(function(event) {
     event.preventDefault();
