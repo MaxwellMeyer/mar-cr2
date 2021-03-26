@@ -2,7 +2,7 @@
 
 #### Written by Maxwell Meyer
 
-### This is the webpage for my second code review at Epicodus. The user can fill out the form by answering all of the questions and submitting the form, which will then evaluate the input responses and make a suggestion for a programming language based on the input received.
+### This is the webpage for my second code review at Epicodus. The user can choose to enter a UserName, and then proceed to fill out the form by answering all of the questions and clicking the results button, which will submit the form and then evaluate the input responses, returning a suggestion for a programming language based on the input received.
 
 
 
@@ -28,8 +28,8 @@ This page asks the user to answer a set of questions and evaluates the answers. 
 
 
 1. Follow link to my Github repo and/or GH-Pages.
-2. Link to GH-Pages is found [here](...)
-3. Alternatively, clone the repository from GH via [this link](...), and open in browser via live server.
+2. Link to GH-Pages is found [here](https://maxwellmeyer.github.io/mar-cr2/)
+3. Alternatively, clone the repository (navigate to the root directory of whatever project file you wish to save into and run ~git clone~ in the terminal) from GH via [this link](https://github.com/MaxwellMeyer/mar-cr2.git), and open in browser via live server.
 
 
 ## Known Bugs
