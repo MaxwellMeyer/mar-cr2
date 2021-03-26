@@ -22,7 +22,7 @@ $(document).ready(function() {
       else if (theAnswers > 100)
       {yourLang = userName + "  PYTHON!!  There's your answer...  it's python..."}
       $("#result").text(yourLang);
-      $("#results").show();
+      $("#results").fadeIn();
       
   });
 });
