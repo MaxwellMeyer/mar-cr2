@@ -2,7 +2,7 @@
 
 #### Written by Maxwell Meyer
 
-### This is the webpage for my second code review at Epicodus. The user can fill out the form by answering all of the questions and submitting the form, which will then evaluate the input reponses and make a suggestion for a programming language based on the input recieved.
+### This is the webpage for my second code review at Epicodus. The user can fill out the form by answering all of the questions and submitting the form, which will then evaluate the input responses and make a suggestion for a programming language based on the input received.
 
 
 

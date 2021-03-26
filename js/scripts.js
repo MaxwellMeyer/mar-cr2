@@ -1,4 +1,4 @@
-//let userName = prompt("Please enter a UserName:")
+let userName = prompt("Please enter a UserName:")
 $(document).ready(function() {
   $("#response").submit(function(event) {
     event.preventDefault();
@@ -10,17 +10,17 @@ $(document).ready(function() {
     const theAnswers = a1 + a2 + a3 + a4 + a5;
     let yourLang = "";
       if (theAnswers < 15) 
-        {yourLang = userName + ", " + "here is an answer";}
+        {yourLang = userName + ", " + "it sounds like you should study C#!!!";}
       else if (theAnswers === 37) 
-        {yourLang = userName + ", " + "another answer";}
+        {yourLang = userName + ", " + "if I were you, I'd strongly consider quitting your job and going straight to the casino!";}
       else if (theAnswers <= 25) 
-      {yourLang = userName + ", " + "answer 3";}
+      {yourLang = userName + ", " + "it sounds like you should choose ANY language EXCEPT javascript...";}
       else if (theAnswers <= 50)
-      {yourLang = userName + ", " + "answer 4"}
+      {yourLang = userName + ", " + "dont think, just study RUBY!!!"}
       else if (theAnswers <= 100)
-      {yourLang = userName + ", " + "answer 5"}
+      {yourLang = userName + ", " + "you would be a perfect match for JAVA!"}
       else if (theAnswers > 100)
-      {yourLang = userName + ",  " + "answer 6"}
+      {yourLang = userName + ",  " + "PYTHON!!  There's your answer...  it's python..."}
       $("#result").text(yourLang);
       $("#results").show();
   });
