@@ -35,3 +35,25 @@ body {
   color: blueviolet;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+#rlbtn {
+  padding-top: 50px;
+  margin-left: 360px;  
+}
+#reload {
+  padding: 25px 25px;
+  border-radius: 100%;
+  color: green;
+  background-color: cyan;
+  border-color: tomato;
+  font-size: 25px;
+  text-shadow: 1px 1px yellow
+}
+#reload:hover {
+  padding: 29px 29px;
+  border-radius: 100%;
+  color: rgb(6, 255, 255);
+  background-color: rgb(255, 0, 119);
+  border-color: tomato;
+  font-size: 25px;
+  text-shadow: 1px 1px yellow
+}

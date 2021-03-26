@@ -23,5 +23,6 @@ $(document).ready(function() {
       {yourLang = userName + ",  " + "PYTHON!!  There's your answer...  it's python..."}
       $("#result").text(yourLang);
       $("#results").show();
+      
   });
 });
